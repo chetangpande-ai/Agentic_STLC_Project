@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain_google_genai
+pandas
+openpyxl
+python-dotenv
+deepeval
+requests
+pydantic
+loguru
+dotenv
